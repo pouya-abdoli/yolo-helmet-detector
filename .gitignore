@@ -3,3 +3,4 @@ images/
 *.pt
 kaggle_data/
 runs/
+.env
